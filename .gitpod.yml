@@ -5,9 +5,6 @@ tasks:
   - name: Build-demo
     init: |
       cd pulsar-demo && mvn clean package install -Dmaven.test.skip=true
-ports:
-  - port: 8080
-    onOpen: open-browser 
 
 github:
   prebuilds:
@@ -19,6 +16,3 @@ github:
     addComment: false
     addBadge: true
     addLabel: false
-
-vscode:
-  extensions:
