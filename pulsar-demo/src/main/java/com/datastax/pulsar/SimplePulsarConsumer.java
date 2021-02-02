@@ -38,7 +38,7 @@ public class SimplePulsarConsumer {
                     .subscribe();
             
             while(true) {
-               Message<DemoBean> msg = pulsarConsumer.receive(1, TimeUnit.SECONDS);
+               Message<DemoBean> msg = pulsarConsumer.receive(conf.getWaitPeriod(), TimeUnit.MILLISECONDS);
                 if(msg != null){
                     System.out.println("[CONSUMER] - Message received:" + new String(msg.getData()));
                     pulsarConsumer.acknowledge(msg);
