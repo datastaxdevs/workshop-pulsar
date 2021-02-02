@@ -8,11 +8,11 @@
 
 This workshop will guide you through the steps to connect Pulsar and Cassandra without any need for you to install anything
 
-### 📅 2 livestreams
+### 📅 2 livestreams on Youtube
 
-- **Wednesday February 3rd**: 📺 [https://youtu.be/nF502PmFi_w](https://youtu.be/nF502PmFi_w)
+- **Wednesday, February 3rd, 12EDT (Targeting LATAM REGION)**: ![](https://github.com/DataStax-Academy/workshop-pulsar/blob/main/materials/img/logo-yt.png?raw=true) [Start Watching !](https://youtu.be/nF502PmFi_w)
 
-- **Thursday February 4th**: 📺 [https://youtu.be/uxpPhsGZbDI](https://youtu.be/nF502PmFi_w)
+- **Thursday February 4th, 12:30 IST, (targeting EMEA.APAC Regions)**: ![](https://github.com/DataStax-Academy/workshop-pulsar/blob/main/materials/img/logo-yt.png?raw=true) [Start Watching](https://youtu.be/nF502PmFi_w)
 
 ### Hands-ON
 
