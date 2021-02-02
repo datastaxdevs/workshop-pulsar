@@ -16,7 +16,7 @@ This workshop will guide you through the steps to connect Pulsar and Cassandra w
 
 ### Hands-ON
 
-Instructions have been moved to the wiki.
+Instructions have been moved [to the wiki](https://github.com/DataStax-Academy/workshop-pulsar/wiki).
 
 <p align="center">
 <a href="https://github.com/DataStax-Academy/workshop-pulsar/wiki">
