@@ -14,6 +14,10 @@ This workshop will guide you through the steps to connect Pulsar and Cassandra w
 
 - **Thursday February 4th, 12:30 IST, (targeting EMEA.APAC Regions)**: [📺 Start Watching!](https://youtu.be/nF502PmFi_w)
 
+### Slides
+
+* [📁 Presentation](https://github.com/DataStax-Academy/workshop-pulsar/blob/main/materials/pulsar_presentation.pdf)
+
 ### Hands-ON
 
 Instructions have been moved [to the wiki](https://github.com/DataStax-Academy/workshop-pulsar/wiki).
