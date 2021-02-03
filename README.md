@@ -10,9 +10,9 @@ This workshop will guide you through the steps to connect Pulsar and Cassandra w
 
 ### 📅 2 livestreams on Youtube
 
-- **Wednesday, February 3rd, 12EDT (Targeting LATAM REGION)**: [📺 Start Watching !](https://youtu.be/nF502PmFi_w)
+- **Wednesday, February 3rd, 12EDT (Targeting LATAM REGION)**: [📺 Start Watching!](https://youtu.be/nF502PmFi_w)
 
-- **Thursday February 4th, 12:30 IST, (targeting EMEA.APAC Regions)**: [📺 Start Watching](https://youtu.be/nF502PmFi_w)
+- **Thursday February 4th, 12:30 IST, (targeting EMEA.APAC Regions)**: [📺 Start Watching!](https://youtu.be/nF502PmFi_w)
 
 ### Hands-ON
 
